@@ -68,6 +68,6 @@ Research proposing a cryptographically generated dynamic subdomain mechanism to 
 
 ## 📫 Connect With Me
 
-- GitHub: [@laasyapriya07](https://github.com/laasyapriya07)
+- GitHub: [@laasyapriya07](https://github.com/laasyapriya2007)
 
 ---
