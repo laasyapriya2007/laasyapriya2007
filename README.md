@@ -99,8 +99,6 @@ Git · GitHub · Linux · WSL · MATLAB
 ### 🔐 AI-Based HAN Intrusion Detection System — *LG Soft India (Research Intern)*
 Building the ML module of an AI-based IDS for IoT / Home Area Network environments as the AI/ML member of a 6-member team (AI/ML, Networking, Digital Twin). The six-stage pipeline on the **Edge-IIoTset** benchmark covers tree-ensemble classifiers, probability calibration, zero-day attack detection on held-out attack classes, **SHAP-based explainability**, and continual learning. Research paper communicated for publication.
 
-> Sponsored project — implementation details shared on request.
-
 ### 🧠 Explainable AI-Based Intrusion Detection with SHAP Approximation & Autoencoder Anomaly Scoring
 Multi-stage intrusion detection pipeline on Edge-IIoTset combining five ML classifiers, lightweight SHAP approximation models, and autoencoder-based anomaly scoring across 15 traffic classes.
 
