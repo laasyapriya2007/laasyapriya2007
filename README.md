@@ -94,10 +94,16 @@ Git · GitHub · Linux · WSL · MATLAB
 
 ---
 
-## 🔬 Selected Research & Projects
+## 💼 Research Experience
 
-### 🔐 AI-Based HAN Intrusion Detection System — *LG Soft India (Research Intern)*
+### 🔐 Research Intern — AI-Based HAN Intrusion Detection System · LG Soft India (LGSI)
 Building the ML module of an AI-based IDS for IoT / Home Area Network environments as the AI/ML member of a 6-member team (AI/ML, Networking, Digital Twin). The six-stage pipeline on the **Edge-IIoTset** benchmark covers tree-ensemble classifiers, probability calibration, zero-day attack detection on held-out attack classes, **SHAP-based explainability**, and continual learning. Research paper communicated for publication.
+
+
+
+---
+
+## 🔧 Projects
 
 ### 🧠 Explainable AI-Based Intrusion Detection with SHAP Approximation & Autoencoder Anomaly Scoring
 Multi-stage intrusion detection pipeline on Edge-IIoTset combining five ML classifiers, lightweight SHAP approximation models, and autoencoder-based anomaly scoring across 15 traffic classes.
@@ -112,13 +118,17 @@ Unsupervised anomaly detector (Isolation Forest) trained exclusively on normal t
 ### 🌐 Network Telescope — Darknet Traffic Analysis
 Setting up a network telescope on unused address space to capture and analyse unsolicited Internet traffic (scans, probes, backscatter) with rule-based detection, alongside a survey paper.
 
-### 🏥 Post-Quantum Secure Healthcare Fog Framework
+---
+
+## 📄 Publications
+
+### 🏥 "A Post-Quantum Secure and Privacy-Preserving Dual-Pipeline Fog Framework for Real-Time Medical Emergency Detection Using Federated Learning"
 Privacy-preserving dual-pipeline fog architecture for real-time medical emergency detection — Federated Learning with CRYSTALS-Kyber/Dilithium, ASCON-128a, differential privacy, and secure aggregation.
 
 **Status:** Under review
 
-### 🛡️ Subdomain Moving Target Defense
-Cryptographically generated dynamic subdomain rotation with session-preserving redirection and expired-subdomain honeypots to disrupt automated web reconnaissance.
+### 🛡️ "Subdomain Mutation as a Moving Target Defense Against Web Reconnaissance"
+DNS-layer defense via cryptographically generated subdomain rotation and expired-subdomain honeypots to disrupt automated web reconnaissance.
 
 **Status:** Communicated for publication
 
