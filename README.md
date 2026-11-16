@@ -94,7 +94,7 @@ Git · GitHub · Linux · WSL · MATLAB
 
 ---
 
-## 💼 Research Experience
+## 💼 Experience
 
 ### 🔐 Research Intern — AI-Based HAN Intrusion Detection System · LG Soft India (LGSI)
 Building the ML module of an AI-based IDS for IoT / Home Area Network environments as the AI/ML member of a 6-member team (AI/ML, Networking, Digital Twin). The six-stage pipeline on the **Edge-IIoTset** benchmark covers tree-ensemble classifiers, probability calibration, zero-day attack detection on held-out attack classes, **SHAP-based explainability**, and continual learning. Research paper communicated for publication.
