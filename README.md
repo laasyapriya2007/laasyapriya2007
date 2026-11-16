@@ -105,7 +105,7 @@ Building the ML module of an AI-based IDS for IoT / Home Area Network environmen
 
 ## 🔧 Projects
 
-### 🧠 Explainable AI-Based Intrusion Detection with SHAP Approximation & Autoencoder Anomaly Scoring
+### 🧠 [Explainable AI-Based Intrusion Detection with SHAP Approximation & Autoencoder Anomaly Scoring](https://github.com/laasyapriya2007/SHAP-Approximation-network)
 Multi-stage intrusion detection pipeline on Edge-IIoTset combining five ML classifiers, lightweight SHAP approximation models, and autoencoder-based anomaly scoring across 15 traffic classes.
 
 **Stack:** Python · Scikit-learn · XGBoost · LightGBM · SHAP
