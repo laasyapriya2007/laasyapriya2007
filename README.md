@@ -155,6 +155,7 @@ DNS-layer defense via cryptographically generated subdomain rotation and expired
 
 ## 📫 Connect With Me
 
+- Resume: [Laasya_Priya_Bhadri_Resume.pdf](./Laasya_Priya_Bhadri_Resume.pdf)
 - GitHub: [@laasyapriya2007](https://github.com/laasyapriya2007)
 - LinkedIn: [laasya-priya-bhadri](https://www.linkedin.com/in/laasya-priya-bhadri/)
 - Email: [laasyapriya1234@gmail.com](mailto:laasyapriya1234@gmail.com)
